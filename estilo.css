@@ -67,3 +67,6 @@
       	text-decoration: underline;
       }
 
+      img:not([alt]){
+      	 border: 5px double red;
+      }
